@@ -1,5 +1,5 @@
 # Dokimon-Steam-Korean-Patch
-도키몬 스팀 버전 한국어 패치
+도키몬 스팀 버전 한글 패치
 
 ## 다운로드
 [다운로드](https://github.com/sanpeu/Dokimon-Steam-Korean-Patch/releases/download/Dokimon/Dokimon_Korean_Patch_v1.0.0.zip)
